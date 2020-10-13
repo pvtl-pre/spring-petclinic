@@ -134,7 +134,8 @@ The Spring PetClinic sample application is released under version 2.0 of the [Ap
 
 # Change Log
 
-2020-09-18 - init
-2020-09-21 - round 2
-2020-09-30 - round 3
-2020-10-01 - round 4
+- 2020-09-18 - init
+- 2020-09-21 - round 2
+- 2020-09-30 - round 3
+- 2020-10-01 - round 4
+- 2020-10-12 - round 5
